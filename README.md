@@ -1,2 +1,2 @@
 # Pong
-Pong clone using unity engine
+Pong clone using unity engine and C#
